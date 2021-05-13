@@ -24,10 +24,10 @@ function setup() {
   fill(color("green"));
 
   // Getting random number
-  text("1Random " + A, 50, 30);
-  text("2Random " + B, 50, 90);
-  text("3Random " + C, 50, 150);
-  text("4Random " + D, 50, 210);
-  text("5Random " + E, 50, 270);
-  text("6Random " + F, 50, 330);
+ text("1Random " + A, 50, 30);
+  text("2Random " + B, 50, 130);
+  text("3Random " + C, 50, 230);
+  text("4Random " + D, 50, 330);
+  text("5Random " + E, 50, 430);
+  text("6Random " + F, 50, 530)
 }
