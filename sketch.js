@@ -1,6 +1,6 @@
 function setup() {
   // Creating Canvas size
-  createCanvas(550, 740);
+  createCanvas(1550, 1740);
 
   // Set the background color
   background(0);
@@ -18,7 +18,7 @@ function setup() {
   let G = random([1], [25]);
 
   // Set the size of text
-  textSize(100);
+  textSize(50);
 
   // Set the text color
   fill(color("green"));
