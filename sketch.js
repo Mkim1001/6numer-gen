@@ -1,6 +1,6 @@
 function setup() {
   // Creating Canvas size
-  createCanvas(550, 240);
+  createCanvas(550, 740);
 
   // Set the background color
   background(0);
