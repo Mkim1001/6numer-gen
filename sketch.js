@@ -18,7 +18,7 @@ function setup() {
   let G = random([1], [25]);
 
   // Set the size of text
-  textSize(50);
+  textSize(25);
 
   // Set the text color
   fill(color("green"));
